@@ -25,6 +25,7 @@ Validate the HTML and CSS code.
 Publish the website in the given URL.
 
 ## PROGRAM :
+```
 <html>
 <head>
     <title>Simple Calculator</title>
@@ -146,6 +147,7 @@ Publish the website in the given URL.
     </script>
 </body>
 </html>
+```
 ## OUTPUT:
 
 ![Alt text](<Screenshot (3).png>)
